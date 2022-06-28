@@ -1,0 +1,25 @@
+.full{
+    width:400px;
+    margin-top: 200px;
+    margin-left: 400px;
+     background-color: aqua;
+     height: 200px;
+}
+.full h1{
+    font-size: 28px;
+    margin-top: 55px;
+    text-align: center;
+}
+.txt{
+    margin-left: 100px;
+}
+.txt input{
+    width: 50px;
+    margin:  10px 40px 10px 20px;
+}
+.btn1{
+    margin-left: 50px;
+}
+.btn1 button{
+    margin: 10px 10px;
+}
